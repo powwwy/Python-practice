@@ -24,8 +24,8 @@ calculate the result and print
 Task 4. Reverse a string without using in built functions
 
 User inputs their word
-set up a loop as an alternative to inbuilt functions
-the loop reverses the word by iterating through the word and returning from the last letter
+Decdied to use recursion because im limited to that or a loop
+The function takes the last index and returns the string in the reverse
 
 Task 5. Factorial using recursive functions
 
