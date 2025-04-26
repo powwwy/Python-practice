@@ -32,3 +32,11 @@ Task 5. Factorial using recursive functions
 Create a function that lops itself until the base case has been met
 allow the user to enter the value they want
 output the results and test for accuracy
+
+Task 6. Sum of digits 
+
+Multiple ways to do this.
+I decided to use a list and the pop function to find the sum of a digit
+User input stored as a list 
+Find and display sum
+
