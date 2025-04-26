@@ -20,3 +20,9 @@ User input
 Set 0 to have the factorial of 1
 Create a loop to reduce the user input 
 calculate the result and print
+
+Task 4. Reverse a string without using in built functions
+
+User inputs their word
+set up a loop as an alternative to inbuilt functions
+the loop reverses the word by iterating through the word and returning from the last letter
