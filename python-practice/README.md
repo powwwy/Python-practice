@@ -26,3 +26,9 @@ Task 4. Reverse a string without using in built functions
 User inputs their word
 set up a loop as an alternative to inbuilt functions
 the loop reverses the word by iterating through the word and returning from the last letter
+
+Task 5. Factorial using recursive functions
+
+Create a function that lops itself until the base case has been met
+allow the user to enter the value they want
+output the results and test for accuracy
